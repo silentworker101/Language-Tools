@@ -1,4 +1,4 @@
-***/// Given a string, you need to remove all the duplicates. That means, the output string should contain each character only once. The respective order of characters should remain same.
+/* Given a string, you need to remove all the duplicates. That means, the output string should contain each character only once. The respective order of characters should remain same.
 Input format :
 String S
 Output format :
@@ -13,7 +13,7 @@ Sample Input 2 :
 abcde
 Sample Output 2 :
 abcde
-***///
+*/
 
 
 #include <bits/stdc++.h> 
